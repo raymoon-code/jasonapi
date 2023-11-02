@@ -1,31 +1,6 @@
 {
 "food":[
-  {
-    "name": "Salmon with Asparagus",
-    "minute": 25,
-    "kcal": 350,
-    "carbs": 10,
-    "fat": 18,
-    "protein": 30,
-    "ingredients": [
-        "Salmon fillets",
-        "Asparagus",
-        "Lemon",
-        "Olive oil",
-        "Garlic",
-        "Salt",
-        "Black pepper"
-    ],
-    "directions": [
-        "Marinate salmon fillets with lemon juice, olive oil, garlic, salt, and pepper.",
-        "Roast salmon and asparagus in the oven until cooked.",
-        "Serve hot and enjoy!"
-    ],
-    "imageURL": "https://www.cookingclassy.com/wp-content/uploads/2019/03/sheet-pan-salmon-and-asparagus-6-500x500.jpg"
-}
-
-
-,
+  
   {
         "name": "Grilled Chicken Salad",
         "minute": 20,
