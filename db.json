@@ -1,4 +1,134 @@
 {
+"food":[
+  {
+        "name": "Grilled Chicken Salad",
+        "minute": 20,
+        "kcal": 300,
+        "carbs": 15,
+        "fat": 10,
+        "protein": 25,
+        "ingredients": [
+            "Boneless chicken breast",
+            "Mixed greens",
+            "Cherry tomatoes",
+            "Cucumber",
+            "Red onion",
+            "Olive oil",
+            "Balsamic vinegar",
+            "Salt",
+            "Pepper"
+        ],
+        "directions": [
+            "Season chicken breast with salt and pepper.",
+            "Grill chicken until cooked through.",
+            "Slice chicken into strips.",
+            "Prepare salad with mixed greens, cherry tomatoes, cucumber, and red onion.",
+            "Make a dressing with olive oil and balsamic vinegar.",
+            "Toss salad with dressing.",
+            "Top salad with grilled chicken strips."
+        ],
+        "imageURL": "https://th.bing.com/th/id/R.44b3da7d3394bca2ce576c17a4686ec1?rik=VDhng8yT8jmeEQ&riu=http%3a%2f%2fnutritiouslife.com%2fwp-content%2fuploads%2f2010%2f05%2fshutterstock_274855409-copy.jpg&ehk=2x435C5dIr0%2fP4lGsEv2GxqHMFNamRX0gcQf%2bzCzMIA%3d&risl=1&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "minute": 15,
+        "kcal": 250,
+        "carbs": 30,
+        "fat": 8,
+        "protein": 12,
+        "ingredients": [
+            "Broccoli",
+            "Bell peppers",
+            "Carrots",
+            "Snap peas",
+            "Soy sauce",
+            "Sesame oil",
+            "Garlic",
+            "Ginger",
+            "Rice"
+        ],
+        "directions": [
+            "Chop vegetables into bite-sized pieces.",
+            "Heat sesame oil in a pan and add garlic and ginger.",
+            "Stir-fry vegetables until tender.",
+            "Add soy sauce.",
+            "Serve over cooked rice."
+        ],
+        "imageURL": "https://lastcallattheoasis.com/wp-content/uploads/2020/06/vegetable_stir_fry.jpg"
+    },
+    {
+        "name": "Greek Salad",
+        "minute": 10,
+        "kcal": 200,
+        "carbs": 15,
+        "fat": 12,
+        "protein": 8,
+        "ingredients": [
+            "Cucumbers",
+            "Tomatoes",
+            "Red onion",
+            "Kalamata olives",
+            "Feta cheese",
+            "Olive oil",
+            "Red wine vinegar",
+            "Oregano",
+            "Salt",
+            "Pepper"
+        ],
+        "directions": [
+            "Chop cucumbers, tomatoes, and red onion.",
+            "Combine with olives and feta.",
+            "In a separate bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.",
+            "Toss the salad with the dressing."
+        ],
+        "imageURL": "https://www.aheadofthyme.com/wp-content/uploads/2016/03/the-perfect-greek-salad-7-782x1024.jpg"
+    },
+    {
+        "name": "Oatmeal with Berries",
+        "minute": 10,
+        "kcal": 220,
+        "carbs": 40,
+        "fat": 4,
+        "protein": 6,
+        "ingredients": [
+            "Rolled oats",
+            "Milk",
+            "Honey",
+            "Blueberries",
+            "Strawberries"
+        ],
+        "directions": [
+            "Cook rolled oats with milk.",
+            "Top with honey, blueberries, and strawberries.",
+            "Enjoy a healthy breakfast."
+        ],
+        "imageURL": "https://www.laurafuentes.com/wp-content/uploads/2018/06/Cold-oatmeal-with-berries_RC.jpg"
+    },
+    {
+        "name": "Salmon with Asparagus",
+        "minute": 25,
+        "kcal": 350,
+        "carbs": 10,
+        "fat": 20,
+        "protein": 30,
+        "ingredients": [
+            "Salmon fillets",
+            "Asparagus spears",
+            "Lemon",
+            "Olive oil",
+            "Garlic",
+            "Salt",
+            "Pepper"
+        ],
+        "directions": [
+            "Season salmon with salt, pepper, and lemon juice.",
+            "Roast salmon and asparagus with garlic and olive oil.",
+            "Serve hot."
+        ],
+        "imageURL": "https://th.bing.com/th/id/OSK.3e13ccb7c2c23356c05f1f4bbb6d09c8?w=474&h=474&o=6&pid=16.1&rs=1"
+    }
+],
+  
   "posts": [
     {
       "id": 1,
