@@ -1,6 +1,61 @@
 {
 "food":[
   {
+  
+    "name": "Greek Salad",
+    "minute": 10,
+    "kcal": 180,
+    "carbs": 10,
+    "fat": 12,
+    "protein": 8,
+    "ingredients": [
+        "Cucumbers",
+        "Tomatoes",
+        "Red onion",
+        "Kalamata olives",
+        "Feta cheese",
+        "Extra-virgin olive oil",
+        "Lemon juice",
+        "Dried oregano",
+        "Salt and pepper"
+    ],
+    "directions": [
+        "Chop cucumbers, tomatoes, and red onion into bite-sized pieces.",
+        "Combine them in a salad bowl with Kalamata olives and crumbled feta cheese.",
+        "In a separate bowl, whisk together extra-virgin olive oil, lemon juice, dried oregano, salt, and pepper to make the dressing.",
+        "Drizzle the dressing over the salad, toss, and serve your refreshing Greek salad."
+    ],
+    "imageURL": "https://www.thespruceeats.com/thmb/GlbMgsFdYOhA-4h3ktmREjrNXas=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/greek-salad-1705459-6-5b8a132a46e0fb0050e56a19.jpg"
+},
+{
+  
+    "name": "Veggie Stir-Fry",
+    "minute": 15,
+    "kcal": 250,
+    "carbs": 30,
+    "fat": 8,
+    "protein": 12,
+    "ingredients": [
+        "Mixed vegetables (bell peppers, broccoli, carrots, snap peas)",
+        "Tofu or chicken (your choice)",
+        "Soy sauce",
+        "Sesame oil",
+        "Ginger",
+        "Garlic",
+        "Rice or noodles"
+    ],
+    "directions": [
+        "Prepare your choice of protein (tofu or chicken) and set aside.",
+        "In a wok or large skillet, heat sesame oil and sauté ginger and garlic.",
+        "Add mixed vegetables and stir-fry until tender-crisp.",
+        "Add the cooked protein and a splash of soy sauce. Stir-fry for another couple of minutes.",
+        "Serve over rice or noodles and enjoy your delicious veggie stir-fry."
+    ],
+    "imageURL": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/veg-fried-rice-1-500x500.jpg"
+}
+
+,
+  {
         "name": "Grilled Chicken Salad",
         "minute": 20,
         "kcal": 300,
