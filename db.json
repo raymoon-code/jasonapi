@@ -1,6 +1,31 @@
 {
 "food":[
   {
+    "name": "Veggie Stir-Fry",
+    "minute": 15,
+    "kcal": 250,
+    "carbs": 35,
+    "fat": 5,
+    "protein": 12,
+    "ingredients": [
+        "Broccoli",
+        "Carrots",
+        "Bell peppers",
+        "Snap peas",
+        "Tofu",
+        "Soy sauce",
+        "Ginger",
+        "Garlic"
+    ],
+    "directions": [
+        "Cut tofu into cubes and marinate with soy sauce, ginger, and garlic.",
+        "Stir-fry tofu, broccoli, carrots, bell peppers, and snap peas in a pan.",
+        "Serve hot and enjoy!"
+    ],
+    "imageURL": "https://www.thespruceeats.com/thmb/d5-ecWIDfMfHIAFODMpgUQUnGq0=/2048x1365/filters:fill(auto,1)/stir-fry-vegetables-recipe-3377008-7-5b847bb3c9e77c00509f597b.jpg"
+},
+
+  {
     "name": "Salmon with Asparagus22",
     "minute": 25,
     "kcal": 350,
